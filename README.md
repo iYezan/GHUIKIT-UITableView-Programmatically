@@ -12,6 +12,10 @@ Project Structure
 ├── Screens
 |   |
 |   ├── view
-|   │   ├── main                   # Main root folder
-|   |   │   ├── view               # FavoritesListCVMain
+|   │   ├── main           # Main root folder
+|   |   │   ├── view       # FavoritesListCVMain
 ```
+
+Features
+* Swift 5.0
+* MVVM architectural pattern
